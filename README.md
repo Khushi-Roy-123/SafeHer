@@ -1,4 +1,3 @@
-# hacknetic
 # SafeHer 👩‍💻✨
 
 An AI-powered platform to make the internet safer for women through awareness, reporting, and protection tools.
@@ -34,9 +33,10 @@ POST /analyze/reddit – analyze subreddit posts
 
 
 TEAM MEMBERS 
+KHUSHI ROY
 GAURI NANDANA M 
 NAIVEDYA SINGH 
-VAISHNAVI JADHAV 
+
 
 🌟 Impact
 SafeHer empowers women by:
@@ -44,3 +44,4 @@ Raising awareness
 Detecting unsafe content
 Providing 24x7 AI help desk
 Promoting safe online community
+
